@@ -8,10 +8,34 @@
 <h1 align="center">⏤͟͟͞͞ ◉𝐕 𝐅 𝐂 𝐅 𝐂✵𝐁𝐎𝐓◉ ͟͞⏤</h1>
 </a>
 </p>
-<h1> V F C F C <h/>
-      <h2> V F C F C <h/>
-      <h3> V F C F C <h/>
-<h4> V F C F C <h/>
-<h5> V F C F C <h/>
 
+# Project Title
+
+One paragraph of project description goes here.
+
+## Table of Contents
+
+- [Installation](#installation)
+
+- [Usage](#usage)
+
+- [Contributing](#contributing)
+
+- [License](#license)
+
+## Installation
+
+Step-by-step installation instructions go here.
+
+## Usage
+
+Usage instructions and examples go here.
+
+## Contributing
+
+Guidelines and instructions for contributing to the project go here.
+
+## License
+
+This project is licensed under the [V F C F C] license - see the [LICENSE.md](LICENSE.md) file for details.
   
